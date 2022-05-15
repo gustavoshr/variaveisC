@@ -1,0 +1,15 @@
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\bin\Debug\net6.0\variaveisC#.exe
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\bin\Debug\net6.0\variaveisC#.deps.json
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\bin\Debug\net6.0\variaveisC#.runtimeconfig.json
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\bin\Debug\net6.0\variaveisC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\bin\Debug\net6.0\variaveisC#.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.csproj.AssemblyReference.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.AssemblyInfoInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.AssemblyInfo.cs
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.csproj.CoreCompileInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\refint\variaveisC#.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\variaveisC#.genruntimeconfig.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\variaveisC#\obj\Debug\net6.0\ref\variaveisC#.dll
